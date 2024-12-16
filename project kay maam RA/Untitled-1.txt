@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Environment Sector: Using Technology for Sustainability</title>
+    
+</head>
+<body>
+    <h1>Environment Sector: Using Technology for Sustainability</h1>
+    <p>The environmental sector embraces innovative tools and technologies to promote sustainability, resource conservation, and environmental protection. Below are examples of platforms designed to address various ecological challenges:</p>
+
+    <h2>1. Ecolife Recycling Locator</h2>
+    <ul id="tools-list">
+        <li><strong>Objective:</strong> Assists individuals and organizations in locating nearby recycling centers.</li>
+        <li><strong>Key Features:</strong>
+            <ul>
+                <li>Searchable database for materials such as plastics, electronics, and metals.</li>
+                <li>Offers guidance on proper recycling practices.</li>
+            </ul>
+        </li>
+        <li><strong>Impact:</strong> Encourages responsible waste management and reduces landfill contributions.</li>
+    </ul>
+
+    <!-- New Tool Form -->
+    <div id="newToolForm">
+        <h3>Add a New Environmental Tool</h3>
+        <label for="toolName">Tool Name:</label>
+        <input type="text" id="toolName" placeholder="Enter tool name">
+        <label for="toolDescription">Description:</label>
+        <textarea id="toolDescription" placeholder="Enter tool description" rows="4"></textarea>
+        <button onclick="addNewTool()">Add Tool</button>
+    </div>
+
+    <h2>Other Tools for Environmental Impact</h2>
+
+    <footer>
+        <p>© 2024 Environment Sector Innovations</p>
+    </footer>
+   
+</body>
+
+    background-image: url('path-to-your-image.jpg'); 
+
